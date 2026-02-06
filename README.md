@@ -37,6 +37,8 @@ print(y_predicted)
 plt.scatter(x, y)
 plt.plot(x, y_predicted, color='red')
 plt.show()
+#developed by :rakesh
+#ref no:25018957
 ~~~
 ## Output:
 <img width="970" height="632" alt="image" src="https://github.com/user-attachments/assets/34da9fea-bf95-4a28-a6a9-551d917c4461" />
